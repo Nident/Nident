@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Nident" target="_blank">Nident</a> 
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yeah%2C+future+data+future+data+analyst" alt="Typing SVG" /></a>
-<!--
-**Nident/Nident** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yeah%2C+data+future+data+analyst" alt="Typing SVG" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
