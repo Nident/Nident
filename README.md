@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Nident" target="_blank">Nident</a> 
   
-<a style="margin:0" auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yeah%2C+future+data+analyst" alt="Typing SVG" /></a>
+<a style="margin:0 auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yeah%2C+future+data+analyst" alt="Typing SVG" /></a>
   
  
 
