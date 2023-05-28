@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/Nident" target="_blank">Nident</a> 
-  
+<h1> align="center">Hi there, I'm <a href="https://github.com/Nident" target="_blank">Nident</a> 
+  </h1>
   
   
 <a align="center" href="https://git.io/typing-svg">
