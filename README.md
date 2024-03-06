@@ -19,7 +19,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: alwats make typo 
-
-<p>[![LeetCode Solved Problems](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen?logo=leetcode&style=for-the-badge)](https://leetcode.com/Nident/)</p>
-<p>[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/nident)</p>
+- ⚡ Fun fact: alwats make typo
+  
+[![LeetCode Solved Problems](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen?logo=leetcode&style=for-the-badge)](https://leetcode.com/Nident/)  
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/nident)
