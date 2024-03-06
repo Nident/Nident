@@ -21,6 +21,4 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: alwats make typo 
 
-
-
-[![LeetCode Solved Problems](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen?logo=leetcode)](https://leetcode.com/Nident/)
+[![LeetCode Solved Problems](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen?logo=leetcode&style=for-the-badge)](https://leetcode.com/Nident/)
