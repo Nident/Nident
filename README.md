@@ -11,7 +11,7 @@
  
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning everything that can help me in my business 
+- 🌱  Сurrently working 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
